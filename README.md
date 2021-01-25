@@ -1,2 +1,1 @@
-# mmf_mmro_2020_fall
-Machine learning homeworks (fall 2020). CMC MSU, MMF, 2020. 
+Выполненные задания к [семинарам](https://github.com/mmp-mmro-team/mmp_mmro_fall_2020) по курсу «Математические методы распознавания образов» (осень 2020). ВМК МГУ, ММП, 2020.
