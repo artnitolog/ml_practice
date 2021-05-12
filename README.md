@@ -2,9 +2,11 @@
 * [PCA, kernel approximation: Random Fourier Features](https://nbviewer.jupyter.org/github/artnitolog/ml_practice/blob/main/2021_spring/mmro/lab_1_rff.ipynb)
 * [EM algorithm: GLAD and word alignment](https://nbviewer.jupyter.org/github/artnitolog/ml_practice/blob/main/2021_spring/mmro/lab_2_em_wa.ipynb)
 * [Unsupervised learning (clustering). Semi-supervised learning. KMeans, DBSCAN, Spectral, LDA, t-SNE. Geospatial (bus stops) and text (news articles) data.](https://nbviewer.jupyter.org/github/artnitolog/ml_practice/blob/main/2021_spring/mmro/lab_3_clust.ipynb)
+* [Metric learning. Imbalanced data (under / over sampling).](https://nbviewer.jupyter.org/github/artnitolog/ml_practice/blob/main/2021_spring/mmro/lab_4_metr_imb.ipynb)
 
 ### [[MMF, spring 2021]](https://machinelearning.ru/wiki/index.php?title=Обработка_и_распознавание_изображений_(курс_лекций%2C_Л.М._Местецкий)) Image Processing
 * [Trimino recognition (segmentation & classification)](https://github.com/artnitolog/ml_practice/blob/main/2021_spring/impro/Trimino%20recognition/report.pdf)
+* [Human hand labeling & clustering](https://github.com/artnitolog/ml_practice/blob/main/2021_spring/impro/Hands%20down/report.pdf)
 
 ### [[MMF, fall 2020]](https://machinelearning.ru/wiki/index.php?title=Практикум_на_ЭВМ_(317)/2020_(осень)) Practicum 
 * [Python tasks](https://github.com/artnitolog/ml_practice/tree/main/2020_fall/practicum/python_tasks)
