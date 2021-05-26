@@ -5,13 +5,16 @@
 * [Metric learning. Imbalanced data (under / over sampling).](https://nbviewer.jupyter.org/github/artnitolog/ml_practice/blob/main/2021_spring/mmro/lab_4_metr_imb.ipynb)
 
 ### [[MMF, spring 2021]](https://machinelearning.ru/wiki/index.php?title=Обработка_и_распознавание_изображений_(курс_лекций%2C_Л.М._Местецкий)) Image Processing
-* [Trimino recognition (segmentation & classification)](https://github.com/artnitolog/ml_practice/blob/main/2021_spring/impro/Trimino%20recognition/report.pdf)
-* [Human hand labeling & clustering](https://github.com/artnitolog/ml_practice/blob/main/2021_spring/impro/Hands%20down/report.pdf)
+* [Trimino recognition (segmentation & classification)](2021_spring/impro/Trimino%20recognition/report.pdf)
+* [Human hand labeling & clustering](2021_spring/impro/Hands%20down/report.pdf)
 
-### [[MMF, fall 2020]](https://machinelearning.ru/wiki/index.php?title=Практикум_на_ЭВМ_(317)/2020_(осень)) Practicum 
-* [Python tasks](https://github.com/artnitolog/ml_practice/tree/main/2020_fall/practicum/python_tasks)
-* [Project 1. k-nearest neighbors](https://github.com/artnitolog/ml_practice/blob/main/2020_fall/practicum/Project%201.%20K-nearest%20neighbors/report/report.pdf)
-* [Project 2. Logistic regression, (stochastic) gradient descent](https://github.com/artnitolog/ml_practice/blob/main/2020_fall/practicum/Project%202.%20Logistic%20regression%2C%20(S)GD/report/report.pdf)
+### [[MMF, spring 2021]](https://github.com/mmp-practicum-team/mmp_practicum_spring_2021) Practicum Pt.2
+* [Recommendation systems: collaborative filtering. MapReduce, Hadoop](2021_spring/other/colfil/solution.pdf)
+
+### [[MMF, fall 2020]](https://machinelearning.ru/wiki/index.php?title=Практикум_на_ЭВМ_(317)/2020_(осень)) Practicum Pt.1
+* [Python tasks](2020_fall/practicum/python_tasks)
+* [Project 1. k-nearest neighbors](2020_fall/practicum/Project%201.%20K-nearest%20neighbors/report/report.pdf)
+* [Project 2. Logistic regression, (stochastic) gradient descent](2020_fall/practicum/Project%202.%20Logistic%20regression%2C%20(S)GD/report/report.pdf)
 * [Project 3. Ensemble learning, web server](https://github.com/artnitolog/ensemble_learning_mmf_prac)
 
 ### [[MMF, fall 2020]](https://github.com/mmp-mmro-team/mmp_mmro_fall_2020) Machine Learning Pt.1 
